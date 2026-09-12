@@ -1,6 +1,5 @@
 <img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
 
-An intentionally useless Android aura scanner. Point the phone at a crowd and AUR/S gives each visible person a temporary ID, a neon aura, and an entirely fictional `AUR/s` radiation reading. Tap someone to monitor them; double-tap for a melodramatic scan that can produce blessings, curses, suspicious numbers, or an aura singularity.
 
 > AUR/S does **not** measure aura, health, emotion, personality, or any real human characteristic. The camera is used only to position visual effects around temporarily visible people.
 
@@ -14,8 +13,8 @@ An intentionally useless Android aura scanner. Point the phone at a crowd and AU
 
 ### Team Members
 
-`Arjun Krishna K S
-Aswath Krishna M B`
+`Arjun Krishna K S`
+`Aswath Krishna M B`
 
 ### The Problem (that doesn't exist)
 
