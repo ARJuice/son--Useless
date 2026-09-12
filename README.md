@@ -10,11 +10,12 @@ An intentionally useless Android aura scanner. Point the phone at a crowd and AU
 
 ### Team Name
 
-`TBD`
+`SON?`
 
 ### Team Members
 
-`TBD — add each maker and their college before submission.`
+`Arjun Krishna K S
+Aswath Krishna M B`
 
 ### The Problem (that doesn't exist)
 
