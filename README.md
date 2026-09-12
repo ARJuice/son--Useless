@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# [Aura Detector] 🎯
 
 
 ## Basic Details
