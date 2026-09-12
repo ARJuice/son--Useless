@@ -25,6 +25,6 @@ AUR/S does not measure aura, health, personality, emotion, or any real human att
 
 ## TinkerHub Submission
 
-This repository will include the live project website, demo video, screenshots, team details, and run instructions when a working build exists. The current documentation is organized to meet the Useless Projects project-record requirements from the start.
+This repository includes the live project documentation website, screenshots, team details, and run instructions. Currently we are running a debug build not release build.
 
 Made with ❤️ for TinkerHub Useless Projects 3.0
