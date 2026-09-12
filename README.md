@@ -94,12 +94,7 @@ Use a private hotspot or LAN where the phone can reach the PC. Allow port `8765`
 
 ### 2. Build and install the Android app
 
-Open `Aura_Detector/android/AuraDetector` in Android Studio, connect a physical Android device, and run the `app` configuration. Alternatively, from PowerShell:
-
-```powershell
-cd Aura_Detector/android/AuraDetector
-.\gradlew.bat :app:assembleDebug
-```
+Open `Aura_Detector/android/AuraDetector` in Android Studio, connect a physical Android device, and run the `app` configuration. This fork currently does not include the Gradle wrapper launchers, so use Android Studio or a compatible locally installed Gradle distribution for command-line builds.
 
 Install the generated debug APK on the phone, grant camera permission, then enter:
 
