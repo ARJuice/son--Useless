@@ -2,7 +2,7 @@
 
 
 
-# [Aura Detector] 🎯
+# Aura Detector 🎯
 
 
 ## Basic Details
