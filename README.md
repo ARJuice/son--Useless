@@ -138,6 +138,8 @@ It is still at its final stage after prototype ready for judgement. It is not a 
 
 ## Demo and Screenshots
 
+<img width="718" height="1600" alt="WhatsApp Image 2026-09-12 at 9 06 19 PM" src="https://github.com/user-attachments/assets/940693e0-02be-4f26-a038-14b9d6449745" />
+<img width="718" height="1600" alt="WhatsApp Image 2026-09-12 at 9 06 19 PM (1)" src="https://github.com/user-attachments/assets/7bb34cac-7056-4229-aa75-19bbe9b1b49a" />
 
 
 ---
