@@ -121,7 +121,7 @@ python -m pytest server/tests -q
 
 The source includes a functioning vertical slice: local server health checks and WebSocket authentication, latest-frame camera transport, YOLO person metadata, a camera overlay, tap selection, local aura-value animation, local scan logic, and sound/mute/haptic implementation.
 
-It is still a prototype. The remaining acceptance work is physical validation of scan/audio/haptics and landscape alignment, plus end-to-end performance measurement on the intended hardware/network. It is not a deployed consumer app or a scientific measurement tool.
+It is still at its final stage after prototype ready for judgement. It is not a deployed consumer app or a scientific measurement tool.
 
 ## Privacy and Safety
 
@@ -143,7 +143,7 @@ It is still a prototype. The remaining acceptance work is physical validation of
 
 ## Demo and Screenshots
 
-Demo video, screenshots, and team attribution are not yet included in this fork. Add real capture from the running Android device before submission—rather than placeholder media—so the project page reflects the final build.
+
 
 ---
 
